@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harijess&label=Profile%20views&color=0e75b6&style=flat" alt="harijess" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HariJess" alt="harijess" /></a> </p>
-
 - 🌱 I’m currently learning **n8n automation**
+
+- I'm opening to freelancing project
 
 - 👨‍💻 All of my projects are available at [https://hari-jess.vercel.app/](https://hari-jess.vercel.app/)
 
 - 📝 I regularly write articles on [https://mg.linkedin.com/in/harijesy-rakotoarisoa-5301872b6](https://mg.linkedin.com/in/harijesy-rakotoarisoa-5301872b6)
 
-- 📫 How to reach me **rakotoarisoaharijesy@gmail.com**
+- 📫 How to reach me :
+**rakotoarisoaharijesy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
