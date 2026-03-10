@@ -2,7 +2,7 @@
 <!-- Remplace les chemins d'images et les liens si besoin -->
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/uploads/2026-03-09-bde97c71-0c57-4061-b0bb-9389b0e52e11.png" />
+  <img src="https://cdn.phototourl.com/uploads/2026-03-10-a44e6db7-bc80-4750-a79c-45b29ce6d2e1.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harijesy</h1>
