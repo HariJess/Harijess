@@ -34,7 +34,7 @@ I build modern, high-performance, user-centered applications—front-end, back-e
 
 <!-- Mobile -->
 **Mobile / Cross-platform**
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/></a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/></a>
