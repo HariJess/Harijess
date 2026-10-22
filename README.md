@@ -9,7 +9,7 @@
 <h3 align="center">A Full-Stack Web & Mobile Developer from Madagascar</h3>
 
 <p align="center">
-  <a href="https://hari-jess.vercel.app/contact" target="_blank">Profile contact<a/>
+  <a href="https://hari-jess.vercel.app/contact">Profile contact<a/>
   &nbsp;&nbsp;
   <a href="https://hari-jess.vercel.app/contact">Freelance available<a/>
   &nbsp;&nbsp;
