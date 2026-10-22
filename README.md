@@ -9,11 +9,11 @@
 <h3 align="center">A Full-Stack Web & Mobile Developer from Madagascar</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harijess&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://hari-jess.vercel.app/contact">Profile contact<a/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Looking%20for-Freelance-ff69b4" alt="Freelance available" />
+  <a href="https://hari-jess.vercel.app/contact">Freelance available<a/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Current%20Project-MyTravelAgency-00b894" alt="current project" />
+  <img src="https://www.immonex.mg/assets/logo-BHGsDeJ3.png" width="100px" heigth="50px" alt="current project" />
 </p>
 
 ---
@@ -116,8 +116,8 @@ I build modern, high-performance, user-centered applications—front-end, back-e
 ---
 
 ## 🔥 Recent projects
-- **MyTravelAgency** — Travel booking & customization platform. → https://travel-agency-tmp.vercel.app/  
-- **PNRSE** — National Water Sector Resilience Project → https://pnrse-web-app.vercel.app/.
+- **Immonex** — Real Estate Marketplace → https://www.immonex.mg/
+- **PNRSE** — National Water Sector Resilience Project → https://www.pnrse-km.com/
 
 ---
 
