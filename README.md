@@ -22,10 +22,9 @@
 I am a full-stack developer (web & mobile) based in Madagascar.  
 I build modern, high-performance, user-centered applications—front-end, back-end, databases, and mobile (Flutter/React Native).  
 
-- 🌱 I am currently working on **[MyTravelAgency](https://travel-agency-tmp.vercel.app/)**  
 - 💼 Available for freelance assignments & collaborations  
 - 👨‍💻 Portfolio → https://hari-jess.vercel.app/  
-- ✍️ Articles & posts → https://mg.linkedin.com/in/harijesy-rakotoarisoa-5301872b6  
+- ✍️ Articles & posts → https://www.linkedin.com/in/iandrianina-harijesy-rakotoarisoa-90b8a3403
 - 📫 Contact → **rakotoarisoaharijesy@gmail.com**
 
 ---
