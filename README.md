@@ -96,7 +96,7 @@ I build modern, high-performance, user-centered applications—front-end, back-e
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/harijesy-rakotoarisoa-5301872b6" target="_blank">
+  <a href="https://www.linkedin.com/in/iandrianina-harijesy-rakotoarisoa-90b8a3403" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
